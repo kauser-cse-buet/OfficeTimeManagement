@@ -12,8 +12,8 @@ namespace OfficeTime
         static void Main(string[] args)
         {
             //DisplayWorkTime
-            EnosisWork enosisWork = new EnosisWork();
-            enosisWork.DisplayWorkTime();
+            OfficeWork officeWork = new OfficeWork();
+            officeWork.DisplayWorkTime();
 
             //DisplayLockUnlock();
         }

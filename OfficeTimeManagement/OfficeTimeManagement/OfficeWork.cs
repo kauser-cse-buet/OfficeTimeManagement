@@ -6,7 +6,7 @@ using System.Diagnostics;
 
 namespace OfficeTime
 {
-    class EnosisWork
+    class OfficeWork
     {
         public TimeSpan WorkHourExceptRoja
         {
